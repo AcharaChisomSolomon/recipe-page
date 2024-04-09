@@ -157,7 +157,7 @@ table th {
 }
 table td {
     font-weight: 700;
-    padding-left: 1rem;
+    margin-left: 1rem;
     padding-right: 2rem;
     color: var(--secondary-text-color)
 }
