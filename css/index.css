@@ -154,10 +154,10 @@ table th, table td {
 table th {
     font-weight: 400;
     padding-left: 2rem;
+    margin-right: 1rem;
 }
 table td {
     font-weight: 700;
-    margin-inline-start: 1rem;
     padding-right: 2rem;
     color: var(--secondary-text-color)
 }
